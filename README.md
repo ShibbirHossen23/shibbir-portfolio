@@ -16,10 +16,10 @@ This project highlights my ability to create user-friendly, mobile-first web pag
 - JavaScript
 
 ## Live Preview:
-👉 [Live Preview Link](https://yourusername.github.io/shibbir-portfolio/)
+👉 [Live Preview Link](/)
 
 ## Source Code:
-👉 [GitHub Repository](https://github.com/yourusername/shibbir-portfolio)
+👉 [)
 
 ---
 
